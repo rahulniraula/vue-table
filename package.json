@@ -1,0 +1,29 @@
+{
+  "name": "geeklearners-vue-table",
+  "version": "2.0.26",
+  "description": "Table Component for vue js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulniraula/vue-table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulniraula/vue-table/issues"
+  },
+  "homepage": "https://github.com/rahulniraula/vue-table#readme",
+  "keywords": [
+    "vue",
+    "table"
+  ],
+  "author": "rahul.niraula@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
+    "@vue/babel-preset-jsx": "^1.1.2",
+    "axios": ">=0.21.1",
+    "vuejs-paginate": "^2.1.0"
+  }
+}
